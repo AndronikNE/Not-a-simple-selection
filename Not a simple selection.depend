@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1711465766 source:c:\users\postp\desktop\Программирование\code\not a simple selection\main.cpp
+	<iostream>
+	<Windows.h>
+	<time.h>
+
+1711470006 source:c:\codeblocks\not a simple selection\main.cpp
+	<iostream>
+	<Windows.h>
+	<time.h>
+
